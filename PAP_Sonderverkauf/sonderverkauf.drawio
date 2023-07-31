@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" modified="2023-07-31T07:53:28.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bmP9A0NxXXX9Iqt1Rf-P" version="21.6.6" type="device">
+  <diagram name="Page-1" id="Qi7DbhpJrCe6FHQ1PE66">
+    <mxGraphModel dx="1728" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J_rwlgJivvsvCEjLn38s-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_rwlgJivvsvCEjLn38s-1" target="J_rwlgJivvsvCEjLn38s-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="365" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-2" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="675" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_rwlgJivvsvCEjLn38s-3" target="J_rwlgJivvsvCEjLn38s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-7" value="A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J_rwlgJivvsvCEjLn38s-5">
+          <mxGeometry x="-0.1625" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_rwlgJivvsvCEjLn38s-3" target="J_rwlgJivvsvCEjLn38s-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="270" />
+              <mxPoint x="570" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-9" value="B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J_rwlgJivvsvCEjLn38s-8">
+          <mxGeometry x="-0.1708" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-3" value="Qualität A=20,00 pro m^2&lt;br&gt;&amp;nbsp;oder &lt;br&gt;B=15,00 pro m^2" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="308" y="210" width="235" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_rwlgJivvsvCEjLn38s-4" target="J_rwlgJivvsvCEjLn38s-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-4" value="Eingabe Maenge in m^2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="410" width="174" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_rwlgJivvsvCEjLn38s-10" target="J_rwlgJivvsvCEjLn38s-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-16" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J_rwlgJivvsvCEjLn38s-13">
+          <mxGeometry x="-0.3133" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-15" value="FALSE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J_rwlgJivvsvCEjLn38s-10" target="J_rwlgJivvsvCEjLn38s-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-10" value="Maenge &amp;gt;= 50 m^2?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="308" y="550" width="235" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.052;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J_rwlgJivvsvCEjLn38s-12" target="J_rwlgJivvsvCEjLn38s-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="528" y="831" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-12" value="Preis * Maenge = Zwischenbetrag&lt;br&gt;Zwischenbetrag - 5% = Betrag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="323" y="780" width="204.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_rwlgJivvsvCEjLn38s-14" target="J_rwlgJivvsvCEjLn38s-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-14" value="Preis * Maenge = Betrag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="660" y="565" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_rwlgJivvsvCEjLn38s-17" target="J_rwlgJivvsvCEjLn38s-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-17" value="Rechnungsbetrag ausgeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="665" y="790" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.533;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J_rwlgJivvsvCEjLn38s-20" target="J_rwlgJivvsvCEjLn38s-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-20" value="Summieren aller Beträge innerhalb eines Tages = Tageseinahmen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="637.75" y="970" width="204.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J_rwlgJivvsvCEjLn38s-22" target="J_rwlgJivvsvCEjLn38s-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_rwlgJivvsvCEjLn38s-22" value="Tageseinnahmen&lt;br&gt;&amp;nbsp;ausgeben" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1140" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
